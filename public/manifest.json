@@ -1,0 +1,22 @@
+{
+  "short_name": "Overtime BD",
+  "name": "Overtime BD - Labour Welfare Wing",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#006A4E",
+  "theme_color": "#006A4E",
+  "display": "standalone",
+  "orientation": "portrait"
+}

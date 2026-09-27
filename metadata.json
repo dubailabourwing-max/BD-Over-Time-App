@@ -1,0 +1,6 @@
+{
+  "name": "Over Time BD",
+  "description": "Professional Overtime Management App with PIN Lock, Profile Tracking, Automated Hour Calculations, A4 PDF & Excel Export with Live Preview, and Custom Header/Footer Settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
